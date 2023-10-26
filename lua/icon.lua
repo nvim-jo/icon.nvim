@@ -1724,11 +1724,11 @@ local icons = {
         name = "windi.config.js",
     },
     ["xaml"] = {
-        icon = "ﭲ",
-        color = "#42a5f5",
-        cterm_color = "75",
+        icon = "",
+        color = "#fab387",
+        cterm_color = "173",
         name = "xaml",
-    },
+    }, 
     ["lib"] = {
         icon = "",
         color = "#8bc34a",
