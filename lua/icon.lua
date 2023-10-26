@@ -1327,8 +1327,8 @@ local icons = {
         name = "Xls",
     },
     ["xml"] = {
-        icon = "謹",
-        color = "#e37933",
+        icon = "",
+        color = "#fab387",
         cterm_color = "173",
         name = "Xml",
     },
