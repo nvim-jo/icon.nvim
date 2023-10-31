@@ -493,7 +493,7 @@ local icons = {
         name = "Fennel"
     },
     ["fish"] = {
-        icon = "",
+        icon = "󰈺",
         color = "#4d5a5e",
         cterm_color = "240",
         name = "Fish",
